@@ -1,6 +1,6 @@
 body {
 	font-family: 'Karla';
-	background: #edeae5;
+	background: #e67e22;
 	width: 100%;
 	height: 100%;
 	position: relative;
@@ -41,7 +41,7 @@ div {
 .square {
     width: 60px;
     height: 60px;
-    background: white;
+    background: #e67e22;
     display: inline-block;
     margin-right: 30px;
 }
